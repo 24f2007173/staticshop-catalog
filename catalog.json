@@ -29,10 +29,10 @@
     { "id": "prod-5b181b2f-023", "name": "Standard Item 23", "category": "clothing", "price": 145.52, "stock": 102, "rating": 2.5 }
   ],
   "aggregations": {
-    "clothing": { "count": 7, "inventoryValue": 171660.33 },
-    "home": { "count": 4, "inventoryValue": 111408.57 },
+    "clothing": { "count": 7, "inventoryValue": 180720.99000000002 },
+    "home": { "count": 4, "inventoryValue": 105189.3 },
     "electronics": { "count": 6, "inventoryValue": 289877.52999999997 },
-    "books": { "count": 4, "inventoryValue": 141466.49 },
-    "sports": { "count": 2, "inventoryValue": 49956.2 }
+    "books": { "count": 4, "inventoryValue": 127159.43 },
+    "sports": { "count": 2, "inventoryValue": 50058.87999999999 }
   }
 }
