@@ -4,31 +4,31 @@
     "version": "5b181b2f"
   },
   "products": [
-    { "id": "prod-5b181b2f-001", "name": "Wooden Dining Table", "category": "electronics", "price": 2500.00, "stock": 10, "rating": 4.3 },
-    { "id": "prod-5b181b2f-002", "name": "Premium Sofa Set", "category": "electronics", "price": 3499.99, "stock": 8, "rating": 4.5 },
-    { "id": "prod-5b181b2f-003", "name": "LED Floor Lamp", "category": "electronics", "price": 1299.50, "stock": 15, "rating": 4.2 },
-    { "id": "prod-5b181b2f-004", "name": "Modular Wardrobe", "category": "electronics", "price": 21880.27, "stock": 1, "rating": 4.6 },
+    { "id": "prod-5b181b2f-001", "name": "Wooden Dining Table", "category": "home", "price": 2500.00, "stock": 10, "rating": 4.3 },
+    { "id": "prod-5b181b2f-002", "name": "Premium Sofa Set", "category": "home", "price": 3499.99, "stock": 8, "rating": 4.5 },
+    { "id": "prod-5b181b2f-003", "name": "LED Floor Lamp", "category": "home", "price": 1299.50, "stock": 15, "rating": 4.2 },
+    { "id": "prod-5b181b2f-004", "name": "Modular Wardrobe", "category": "home", "price": 21880.27, "stock": 1, "rating": 4.6 },
+
     { "id": "prod-5b181b2f-005", "name": "Gaming Laptop", "category": "electronics", "price": 19999.99, "stock": 3, "rating": 4.7 },
     { "id": "prod-5b181b2f-006", "name": "Smartphone Pro", "category": "electronics", "price": 14999.50, "stock": 4, "rating": 4.4 },
     { "id": "prod-5b181b2f-007", "name": "Tablet X", "category": "electronics", "price": 9999.99, "stock": 5, "rating": 4.3 },
     { "id": "prod-5b181b2f-008", "name": "Bluetooth Speaker", "category": "electronics", "price": 2499.99, "stock": 10, "rating": 4.1 },
     { "id": "prod-5b181b2f-009", "name": "Wireless Headphones", "category": "electronics", "price": 799.99, "stock": 25, "rating": 4.0 },
     { "id": "prod-5b181b2f-010", "name": "Mechanical Keyboard", "category": "electronics", "price": 1299.00, "stock": 12, "rating": 4.5 },
+    { "id": "prod-5b181b2f-011", "name": "Smartwatch Z", "category": "electronics", "price": 4599.49, "stock": 6, "rating": 4.2 },
+    { "id": "prod-5b181b2f-012", "name": "External SSD 1TB", "category": "electronics", "price": 2999.99, "stock": 7, "rating": 4.6 },
+    { "id": "prod-5b181b2f-013", "name": "HD Webcam", "category": "electronics", "price": 1599.99, "stock": 9, "rating": 4.1 },
+    { "id": "prod-5b181b2f-014", "name": "USB-C Hub", "category": "electronics", "price": 499.99, "stock": 30, "rating": 3.9 },
 
-    { "id": "prod-5b181b2f-011", "name": "Smartwatch Z", "category": "fashion", "price": 4599.49, "stock": 6, "rating": 4.2 },
-    { "id": "prod-5b181b2f-012", "name": "External SSD 1TB", "category": "fashion", "price": 2999.99, "stock": 7, "rating": 4.6 },
-    { "id": "prod-5b181b2f-013", "name": "HD Webcam", "category": "fashion", "price": 1599.99, "stock": 9, "rating": 4.1 },
-    { "id": "prod-5b181b2f-014", "name": "USB-C Hub", "category": "fashion", "price": 499.99, "stock": 30, "rating": 3.9 },
     { "id": "prod-5b181b2f-015", "name": "Men's Jacket", "category": "fashion", "price": 1999.99, "stock": 8, "rating": 4.4 },
     { "id": "prod-5b181b2f-016", "name": "Women's Handbag", "category": "fashion", "price": 999.99, "stock": 15, "rating": 4.3 },
     { "id": "prod-5b181b2f-017", "name": "Sneakers", "category": "fashion", "price": 1499.50, "stock": 10, "rating": 4.2 },
     { "id": "prod-5b181b2f-018", "name": "Formal Shoes", "category": "fashion", "price": 2499.00, "stock": 5, "rating": 4.1 },
     { "id": "prod-5b181b2f-019", "name": "Casual T-Shirt", "category": "fashion", "price": 799.50, "stock": 20, "rating": 4.0 },
-
-    { "id": "prod-5b181b2f-020", "name": "Designer Saree", "category": "home", "price": 2999.99, "stock": 4, "rating": 4.6 },
-    { "id": "prod-5b181b2f-021", "name": "Leather Belt", "category": "home", "price": 399.99, "stock": 25, "rating": 3.8 },
-    { "id": "prod-5b181b2f-022", "name": "Sports Cap", "category": "home", "price": 599.99, "stock": 18, "rating": 4.1 },
-    { "id": "prod-5b181b2f-023", "name": "Denim Jeans", "category": "home", "price": 1299.99, "stock": 7, "rating": 4.3 }
+    { "id": "prod-5b181b2f-020", "name": "Designer Saree", "category": "fashion", "price": 2999.99, "stock": 4, "rating": 4.6 },
+    { "id": "prod-5b181b2f-021", "name": "Leather Belt", "category": "fashion", "price": 399.99, "stock": 25, "rating": 3.8 },
+    { "id": "prod-5b181b2f-022", "name": "Sports Cap", "category": "fashion", "price": 599.99, "stock": 18, "rating": 4.1 },
+    { "id": "prod-5b181b2f-023", "name": "Denim Jeans", "category": "fashion", "price": 1299.99, "stock": 7, "rating": 4.3 }
   ],
   "aggregations": {
     "home": {
